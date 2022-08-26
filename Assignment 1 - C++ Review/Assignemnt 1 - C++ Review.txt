@@ -1,0 +1,17 @@
+Assignment 1:
+
+• Write a C++ program to find the max of an integral data set.
+o Write main function to ask a user to
+§ input the number of data values
+§ input all data values
+o Write max function to print maximum value
+
+• Write C++ program to swap two variables using pointers.
+o Writing main function
+o Write swap function
+o Swap function must accept any type of pointer (uses generic)
+
+• Write a program uses a class template to perform addition, subtraction, multiplication,
+and division of two variables num1 and num2. The variables can be of any type.
+o Write main function
+o Write the generic class
